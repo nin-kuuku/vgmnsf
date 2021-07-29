@@ -18,7 +18,7 @@ triangle_psg=2  ; channel setup
                 ; 3 = psg0=pulse0,   psg1=pulse1,   psg2=triangle
 
 triangle_gate=8 ; 0-15 triangle volume threshold (default=8)
-dac_amp=0       ; 0-15 "triangle/volume using DMC channel (default=0)
+dac_amp=0       ; 0-15 "triangle/noise volume using DMC channel (default=0)
 
 pulse0_duty=0
 pulse1_duty=2   ; 0-15 pulse duty or really "voltable" pointer (default=2)
